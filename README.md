@@ -24,7 +24,7 @@ This project implements a virtual mouse system that allows users to control the 
 # Installation & Setup
 Clone this repository:  
   * git clone https://github.com/vidya-reddy01/Virtual_Mouse.git  
-  * cd Virtual-Mouse  
+  * cd Virtual_Mouse  
 
 Install dependencies:  
   * pip install -r requirements.txt  
