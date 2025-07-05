@@ -15,4 +15,21 @@ This project implements a virtual mouse system that allows users to control the 
 
 ✋ Supported Gestures -- Gesture	Description	Action:  
   * Index Finger Up	---> Only index finger raised	---> Move mouse cursor  
-  * Index + Middle Up	---> Both fingers raised closely	---> Left click (pinch gesture)  
+  * Index + Middle Up	---> Both fingers raised closely	---> Left click (pinch gesture)
+    
+    
+    
+   
+  
+# Installation & Setup
+Clone this repository:  
+  * git clone https://github.com/vidya-reddy01/Virtual-Mouse.git  
+  * cd Virtual-Mouse  
+
+Install dependencies:  
+  * pip install -r requirements.txt  
+
+Run the script:  
+  * python Virtual_Mouse.py
+    
+Ensure your webcam is working and you're in a well-lit environment.
